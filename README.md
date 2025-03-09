@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Muhammad Yamman Hammad
 - 👀 I’m interested in ERP Solutions
-- 🌱 I’m currently learning the Basics of Python
 - 💞️ I’m looking to collaborate on diverse projects
 - 📫 How to reach me: Email me!
 - 😄 Pronouns: He/Him
